@@ -1,0 +1,4 @@
+node_modules/
+out/
+output.txt
+.DS_Store
