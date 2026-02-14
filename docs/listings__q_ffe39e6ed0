@@ -64,7 +64,7 @@
     >
       
         <div id="floatingCart" class="floating-cart hidden">
-          <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
+          <a href="./cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
             <span class="Cart-inner">
               
 
@@ -496,7 +496,7 @@
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element">
+                        <a href="./" data-animation-role="header-element">
                         <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w">
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w" alt="Nalin Sharma | SAYVA Real Estate" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></picture>
 
@@ -506,7 +506,7 @@
                     
                     
                       <div class="header-mobile-logo">
-                        <a href="/" data-animation-role="header-element">
+                        <a href="./" data-animation-role="header-element">
                           <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w">
 <img elementtiming="nbf-header-logo-mobile" src="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w" alt="Nalin Sharma | SAYVA Real Estate" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></picture>
 
@@ -527,7 +527,7 @@
   
     <div class="header-nav-item header-nav-item--collection header-nav-item--homepage">
       <a
-        href="/"
+        href="./"
         data-animation-role="header-element"
         
       >
@@ -543,7 +543,7 @@
     <div class="header-nav-item header-nav-item--folder">
       <button
         class="header-nav-folder-title"
-        data-href="/services-1"
+        data-href="./services-1"
         data-animation-role="header-element"
         aria-expanded="false"
         aria-controls="services"
@@ -558,7 +558,7 @@
           
             <div class="header-nav-folder-item">
               <a
-                href="/buy-sell"
+                href="./buy-sell"
                 
               >
                 <span class="header-nav-folder-item-content">
@@ -572,7 +572,7 @@
           
             <div class="header-nav-folder-item">
               <a
-                href="/leasing-101"
+                href="./leasing-101"
                 
               >
                 <span class="header-nav-folder-item-content">
@@ -592,7 +592,7 @@
   
     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
       <a
-        href="/listings"
+        href="./listings"
         data-animation-role="header-element"
         
           aria-current="page"
@@ -609,7 +609,7 @@
   
     <div class="header-nav-item header-nav-item--collection">
       <a
-        href="/about"
+        href="./about"
         data-animation-role="header-element"
         
       >
@@ -624,7 +624,7 @@
   
     <div class="header-nav-item header-nav-item--collection">
       <a
-        href="/contact"
+        href="./contact"
         data-animation-role="header-element"
         
       >
@@ -772,7 +772,7 @@
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element">
+                        <a href="./" data-animation-role="header-element">
                         <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w">
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w" alt="Nalin Sharma | SAYVA Real Estate" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></picture>
 
@@ -782,7 +782,7 @@
                     
                     
                       <div class="header-mobile-logo">
-                        <a href="/" data-animation-role="header-element">
+                        <a href="./" data-animation-role="header-element">
                           <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w">
 <img elementtiming="nbf-header-logo-mobile" src="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w" alt="Nalin Sharma | SAYVA Real Estate" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></picture>
 
@@ -803,7 +803,7 @@
   
     <div class="header-nav-item header-nav-item--collection header-nav-item--homepage">
       <a
-        href="/"
+        href="./"
         data-animation-role="header-element"
         
       >
@@ -819,7 +819,7 @@
     <div class="header-nav-item header-nav-item--folder">
       <button
         class="header-nav-folder-title"
-        data-href="/services-1"
+        data-href="./services-1"
         data-animation-role="header-element"
         aria-expanded="false"
         aria-controls="services"
@@ -834,7 +834,7 @@
           
             <div class="header-nav-folder-item">
               <a
-                href="/buy-sell"
+                href="./buy-sell"
                 
               >
                 <span class="header-nav-folder-item-content">
@@ -848,7 +848,7 @@
           
             <div class="header-nav-folder-item">
               <a
-                href="/leasing-101"
+                href="./leasing-101"
                 
               >
                 <span class="header-nav-folder-item-content">
@@ -868,7 +868,7 @@
   
     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
       <a
-        href="/listings"
+        href="./listings"
         data-animation-role="header-element"
         
           aria-current="page"
@@ -885,7 +885,7 @@
   
     <div class="header-nav-item header-nav-item--collection">
       <a
-        href="/about"
+        href="./about"
         data-animation-role="header-element"
         
       >
@@ -900,7 +900,7 @@
   
     <div class="header-nav-item header-nav-item--collection">
       <a
-        href="/contact"
+        href="./contact"
         data-animation-role="header-element"
         
       >
@@ -1153,7 +1153,7 @@
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--homepage">
               <a
-                href="/"
+                href="./"
                 
               >
                 <div class="header-menu-nav-item-content">
@@ -1170,7 +1170,7 @@
           <div class="container header-menu-nav-item">
             <a
               data-folder-id="/services-1"
-              href="/services-1"
+              href="./services-1"
               
             >
               <div class="header-menu-nav-item-content header-menu-nav-item-content-folder">
@@ -1182,7 +1182,7 @@
           <div data-folder="/services-1" class="header-menu-nav-folder">
             <div class="header-menu-nav-folder-content">
               <div class="header-menu-controls container header-menu-nav-item">
-                <a class="header-menu-controls-control header-menu-controls-control--active" data-action="back" href="/">
+                <a class="header-menu-controls-control header-menu-controls-control--active" data-action="back" href="./">
                   <span>Back</span>
                 </a>
               </div>
@@ -1190,7 +1190,7 @@
                 
                   <div class="container header-menu-nav-item">
                     <a
-                      href="/buy-sell"
+                      href="./buy-sell"
                       
                     >
                       <div class="header-menu-nav-item-content">
@@ -1204,7 +1204,7 @@
                 
                   <div class="container header-menu-nav-item">
                     <a
-                      href="/leasing-101"
+                      href="./leasing-101"
                       
                     >
                       <div class="header-menu-nav-item-content">
@@ -1225,7 +1225,7 @@
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
               <a
-                href="/listings"
+                href="./listings"
                 
                   aria-current="page"
                 
@@ -1244,7 +1244,7 @@
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection">
               <a
-                href="/about"
+                href="./about"
                 
               >
                 <div class="header-menu-nav-item-content">
@@ -1261,7 +1261,7 @@
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection">
               <a
-                href="/contact"
+                href="./contact"
                 
               >
                 <div class="header-menu-nav-item-content">
@@ -1403,7 +1403,7 @@
     <article class="hentry category-leased author-nalin-sharma post-type-text article-index-1 blog-item entry entry--list">
       <section class="blog-image-wrapper">
       
-      <a href="/listings" class="image-wrapper" data-animation-role="image">
+      <a href="./listings" class="image-wrapper" data-animation-role="image">
   
 <img data-src="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="30 Traymore Cres" data-load="false" src="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg" width="1500" height="1000" alt="" sizes="(max-width:767px)100vw,50vw" class="image" style="display:block;position: absolute; height: 100%; width: 100%; object-fit: cover; object-position: 50% 50%;" srcset="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1737748206055-YCIZ5DP6KWUDS99W3YNM/0-Living-30_Traymore_Cres_WEB-26.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
 </a>
@@ -1416,7 +1416,7 @@
     
       <span class="blog-categories-list">
         
-          <a href="/listings" class="blog-categories">Leased</a>
+          <a href="./listings" class="blog-categories">Leased</a>
       </span>
     
     
@@ -1432,7 +1432,7 @@
     
       <span class="blog-categories-list">
         
-          <a href="/listings" class="blog-categories">Leased</a>
+          <a href="./listings" class="blog-categories">Leased</a>
       </span>
     
     
@@ -1446,7 +1446,7 @@
 </div>
 <h1 class="blog-title">
   
-    <a href="/listings" data-no-animation>
+    <a href="./listings" data-no-animation>
   
     30 Traymore Cres
   </a>
@@ -1456,7 +1456,7 @@
   
 </div>
 
-<a class="blog-more-link" href="/listings" data-animation-role="content">Read More</a>
+<a class="blog-more-link" href="./listings" data-animation-role="content">Read More</a>
 
 
       </section>
@@ -1465,7 +1465,7 @@
     <article class="hentry category-leased author-nalin-sharma post-type-text article-index-2 blog-item entry entry--list">
       <section class="blog-image-wrapper">
       
-      <a href="/listings" class="image-wrapper" data-animation-role="image">
+      <a href="./listings" class="image-wrapper" data-animation-role="image">
   
 <img data-src="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg" data-image-dimensions="4589x3059" data-image-focal-point="0.5,0.5" alt="61 Humbercrest Blvd" data-load="false" src="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg" width="4589" height="3059" alt="" sizes="(max-width:767px)100vw,50vw" class="image" style="display:block;position: absolute; height: 100%; width: 100%; object-fit: cover; object-position: 50% 50%;" srcset="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1681311841261-OENCII682ZB1LQS4LMCY/1Exterior-2.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
 </a>
@@ -1478,7 +1478,7 @@
     
       <span class="blog-categories-list">
         
-          <a href="/listings" class="blog-categories">Leased</a>
+          <a href="./listings" class="blog-categories">Leased</a>
       </span>
     
     
@@ -1494,7 +1494,7 @@
     
       <span class="blog-categories-list">
         
-          <a href="/listings" class="blog-categories">Leased</a>
+          <a href="./listings" class="blog-categories">Leased</a>
       </span>
     
     
@@ -1508,7 +1508,7 @@
 </div>
 <h1 class="blog-title">
   
-    <a href="/listings" data-no-animation>
+    <a href="./listings" data-no-animation>
   
     61 Humbercrest Blvd
   </a>
@@ -1518,7 +1518,7 @@
   
 </div>
 
-<a class="blog-more-link" href="/listings" data-animation-role="content">Read More</a>
+<a class="blog-more-link" href="./listings" data-animation-role="content">Read More</a>
 
 
       </section>
@@ -1527,7 +1527,7 @@
     <article class="hentry category-leased author-nalin-sharma post-type-text article-index-3 blog-item entry entry--list">
       <section class="blog-image-wrapper">
       
-      <a href="/listings" class="image-wrapper" data-animation-role="image">
+      <a href="./listings" class="image-wrapper" data-animation-role="image">
   
 <img data-src="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg" data-image-dimensions="1000x666" data-image-focal-point="0.5,0.5" alt="50 Halford Avenue" data-load="false" src="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg" width="1000" height="666" alt="" sizes="(max-width:767px)100vw,50vw" class="image" style="display:block;position: absolute; height: 100%; width: 100%; object-fit: cover; object-position: 50% 50%;" srcset="https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1680874383540-106EYAEQIF19EDGIYXQH/XHalford-2.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
 </a>
@@ -1540,7 +1540,7 @@
     
       <span class="blog-categories-list">
         
-          <a href="/listings" class="blog-categories">Leased</a>
+          <a href="./listings" class="blog-categories">Leased</a>
       </span>
     
     
@@ -1556,7 +1556,7 @@
     
       <span class="blog-categories-list">
         
-          <a href="/listings" class="blog-categories">Leased</a>
+          <a href="./listings" class="blog-categories">Leased</a>
       </span>
     
     
@@ -1570,7 +1570,7 @@
 </div>
 <h1 class="blog-title">
   
-    <a href="/listings" data-no-animation>
+    <a href="./listings" data-no-animation>
   
     50 Halford Avenue
   </a>
@@ -1580,7 +1580,7 @@
   
 </div>
 
-<a class="blog-more-link" href="/listings" data-animation-role="content">Read More</a>
+<a class="blog-more-link" href="./listings" data-animation-role="content">Read More</a>
 
 
       </section>

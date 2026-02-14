@@ -58,7 +58,7 @@
     <div id="siteWrapper" class="clearfix site-wrapper">
       
         <div id="floatingCart" class="floating-cart hidden">
-          <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
+          <a href="./cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
             <span class="Cart-inner">
               
 
@@ -455,7 +455,7 @@
                     " data-animation-role="header-element">
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element">
+                        <a href="./" data-animation-role="header-element">
                         <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w">
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w" alt="Nalin Sharma | SAYVA Real Estate" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></picture>
 
@@ -465,7 +465,7 @@
                     
                     
                       <div class="header-mobile-logo">
-                        <a href="/" data-animation-role="header-element">
+                        <a href="./" data-animation-role="header-element">
                           <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w">
 <img elementtiming="nbf-header-logo-mobile" src="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w" alt="Nalin Sharma | SAYVA Real Estate" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></picture>
 
@@ -485,7 +485,7 @@
 
   
     <div class="header-nav-item header-nav-item--collection header-nav-item--homepage">
-      <a href="/" data-animation-role="header-element">
+      <a href="./" data-animation-role="header-element">
         Home
       </a>
     </div>
@@ -496,7 +496,7 @@
 
   
     <div class="header-nav-item header-nav-item--folder header-nav-item--active">
-      <button class="header-nav-folder-title" data-href="/services-1" data-animation-role="header-element" aria-expanded="false" aria-controls="services" aria-current="true">
+      <button class="header-nav-folder-title" data-href="./services-1" data-animation-role="header-element" aria-expanded="false" aria-controls="services" aria-current="true">
       <span class="header-nav-folder-title-text">
         Services
       </span>
@@ -505,7 +505,7 @@
         
           
             <div class="header-nav-folder-item header-nav-folder-item--active">
-              <a href="/buy-sell" aria-current="page">
+              <a href="./buy-sell" aria-current="page">
                 <span class="header-nav-folder-item-content">
                   Buy &amp; Sell
                 </span>
@@ -516,7 +516,7 @@
         
           
             <div class="header-nav-folder-item">
-              <a href="/leasing-101">
+              <a href="./leasing-101">
                 <span class="header-nav-folder-item-content">
                   Leasing 101
                 </span>
@@ -533,7 +533,7 @@
 
   
     <div class="header-nav-item header-nav-item--collection">
-      <a href="/listings" data-animation-role="header-element">
+      <a href="./listings" data-animation-role="header-element">
         Listings
       </a>
     </div>
@@ -544,7 +544,7 @@
 
   
     <div class="header-nav-item header-nav-item--collection">
-      <a href="/about" data-animation-role="header-element">
+      <a href="./about" data-animation-role="header-element">
         About
       </a>
     </div>
@@ -555,7 +555,7 @@
 
   
     <div class="header-nav-item header-nav-item--collection">
-      <a href="/contact" data-animation-role="header-element">
+      <a href="./contact" data-animation-role="header-element">
         Contact
       </a>
     </div>
@@ -697,7 +697,7 @@
                     " data-animation-role="header-element">
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element">
+                        <a href="./" data-animation-role="header-element">
                         <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w">
 <img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w" alt="Nalin Sharma | SAYVA Real Estate" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></picture>
 
@@ -707,7 +707,7 @@
                     
                     
                       <div class="header-mobile-logo">
-                        <a href="/" data-animation-role="header-element">
+                        <a href="./" data-animation-role="header-element">
                           <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238876257-VKLKF1YQ8JKC8W6VC5FT/Sayva-logo-02.png?format=1500w">
 <img elementtiming="nbf-header-logo-mobile" src="//images.squarespace-cdn.com/content/v1/6046943ca144d15f8cfa9fd5/1615238884254-1J5YRVBG4A2S4KJ86NMJ/Sayva-logo-02.png?format=1500w" alt="Nalin Sharma | SAYVA Real Estate" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></picture>
 
@@ -727,7 +727,7 @@
 
   
     <div class="header-nav-item header-nav-item--collection header-nav-item--homepage">
-      <a href="/" data-animation-role="header-element">
+      <a href="./" data-animation-role="header-element">
         Home
       </a>
     </div>
@@ -738,7 +738,7 @@
 
   
     <div class="header-nav-item header-nav-item--folder header-nav-item--active">
-      <button class="header-nav-folder-title" data-href="/services-1" data-animation-role="header-element" aria-expanded="false" aria-controls="services" aria-current="true">
+      <button class="header-nav-folder-title" data-href="./services-1" data-animation-role="header-element" aria-expanded="false" aria-controls="services" aria-current="true">
       <span class="header-nav-folder-title-text">
         Services
       </span>
@@ -747,7 +747,7 @@
         
           
             <div class="header-nav-folder-item header-nav-folder-item--active">
-              <a href="/buy-sell" aria-current="page">
+              <a href="./buy-sell" aria-current="page">
                 <span class="header-nav-folder-item-content">
                   Buy &amp; Sell
                 </span>
@@ -758,7 +758,7 @@
         
           
             <div class="header-nav-folder-item">
-              <a href="/leasing-101">
+              <a href="./leasing-101">
                 <span class="header-nav-folder-item-content">
                   Leasing 101
                 </span>
@@ -775,7 +775,7 @@
 
   
     <div class="header-nav-item header-nav-item--collection">
-      <a href="/listings" data-animation-role="header-element">
+      <a href="./listings" data-animation-role="header-element">
         Listings
       </a>
     </div>
@@ -786,7 +786,7 @@
 
   
     <div class="header-nav-item header-nav-item--collection">
-      <a href="/about" data-animation-role="header-element">
+      <a href="./about" data-animation-role="header-element">
         About
       </a>
     </div>
@@ -797,7 +797,7 @@
 
   
     <div class="header-nav-item header-nav-item--collection">
-      <a href="/contact" data-animation-role="header-element">
+      <a href="./contact" data-animation-role="header-element">
         Contact
       </a>
     </div>
@@ -1042,7 +1042,7 @@
         
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--homepage">
-              <a href="/">
+              <a href="./">
                 <div class="header-menu-nav-item-content">
                   Home
                 </div>
@@ -1055,7 +1055,7 @@
       
         
           <div class="container header-menu-nav-item header-menu-nav-item--active">
-            <a data-folder-id="/services-1" href="/services-1" aria-current="true">
+            <a data-folder-id="/services-1" href="./services-1" aria-current="true">
               <div class="header-menu-nav-item-content header-menu-nav-item-content-folder">
                 <span class="visually-hidden">Folder:</span>
                 <span class="header-nav-folder-title-text">Services</span>
@@ -1070,7 +1070,7 @@
         
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection">
-              <a href="/listings">
+              <a href="./listings">
                 <div class="header-menu-nav-item-content">
                   Listings
                 </div>
@@ -1084,7 +1084,7 @@
         
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection">
-              <a href="/about">
+              <a href="./about">
                 <div class="header-menu-nav-item-content">
                   About
                 </div>
@@ -1098,7 +1098,7 @@
         
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection">
-              <a href="/contact">
+              <a href="./contact">
                 <div class="header-menu-nav-item-content">
                   Contact
                 </div>
@@ -1119,14 +1119,14 @@
           </div><div data-folder="/services-1" class="header-menu-nav-folder">
             <div class="header-menu-nav-folder-content">
               <div class="header-menu-controls container header-menu-nav-item">
-                <a class="header-menu-controls-control header-menu-controls-control--active" data-action="back" href="/" tabindex="-1"><span class="header-dropdown-icon header-dropdown-flip" style="margin-right: 0.15em; width: 1em; height: 1em;"><svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" stroke-linecap="square" stroke-linejoin="miter" stroke-width="0.5px"><use href="#openArrowHead"></use></svg></span>
+                <a class="header-menu-controls-control header-menu-controls-control--active" data-action="back" href="./" tabindex="-1"><span class="header-dropdown-icon header-dropdown-flip" style="margin-right: 0.15em; width: 1em; height: 1em;"><svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" stroke-linecap="square" stroke-linejoin="miter" stroke-width="0.5px"><use href="#openArrowHead"></use></svg></span>
                   <span>Back</span>
                 </a>
               </div>
               
                 
                   <div class="container header-menu-nav-item header-menu-nav-item--active">
-                    <a href="/buy-sell" aria-current="page" tabindex="-1">
+                    <a href="./buy-sell" aria-current="page" tabindex="-1">
                       <div class="header-menu-nav-item-content">
                         Buy &amp; Sell
                       </div>
@@ -1137,7 +1137,7 @@
               
                 
                   <div class="container header-menu-nav-item">
-                    <a href="/leasing-101" tabindex="-1">
+                    <a href="./leasing-101" tabindex="-1">
                       <div class="header-menu-nav-item-content">
                         Leasing 101
                       </div>
